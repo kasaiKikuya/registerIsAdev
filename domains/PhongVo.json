@@ -1,0 +1,12 @@
+{
+  "description": "my testing domain as a.dev",
+  
+  "owner": {
+    "username": "kasaiKikuya",
+    "email": "vosonphong15@gmail.com"
+  },
+"record": {
+    "TXT": "Phong Vo domain"
+  },
+  "proxied": true
+}
